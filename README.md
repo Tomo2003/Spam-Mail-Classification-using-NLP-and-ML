@@ -18,4 +18,4 @@ This project aims to classify emails as spam or non-spam (ham) using Natural Lan
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<repository-name>.git
+   git clone https://github.com/Tomo2003/Spam-Mail-Classification-using-NLP-and-ML
